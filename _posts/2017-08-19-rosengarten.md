@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Rosengarten"
+title:  "Roses garden"
 date:   2017-08-18
 categories: nature
+lang: en
+ref: rosengarten
 ---
 
-Ce samedi 19 août 2017, j’ai visité le fameux [jardin des roses (ou Rosengarten)][rosengarten].
-Voici une selection de photos a voir sur [flickr][flickr-flower].
+This saturday, 19th of august 2017, I visited the famous [garden of roses (or Rosengarten)][rosengarten].
+Here is a selection of pictures, on [flickr][flickr-flower].
 
-[rosengarten]:   https://www.bern.com/fr/detail/le-jardin-des-roses
+[rosengarten]:   https://www.bern.com/en/detail/the-rose-garden
 [flickr-flower]: https://www.flickr.com/photos/151886694@N06/albums/72157685820800013

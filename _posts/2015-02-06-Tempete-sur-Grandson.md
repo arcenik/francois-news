@@ -3,6 +3,8 @@ layout: post
 title:  "Tempête sur Grandson"
 date:   2015-02-06
 categories: nature
+lang: fr
+ref: tempete-grandson
 ---
 Images prise à [Grandson][grandson], lors d'un épisode de Bise Noire sur le [lac de Neuchâtel][lac-neuch].
 
