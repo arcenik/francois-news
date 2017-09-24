@@ -12,11 +12,17 @@ lang: fr
     {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <hr style="margin: 3px 0px;">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+          <div style="overflow: hidden;">
+            <div style="float:left;border: 1px black;">
+              <span class="post-meta">{{ post.date | date: "%Y/%m/%d" }}</span>
+              <h2>{{ post.title }}</h2>
+            </div>
+            <div style="float:right;border: 1px black;">
+              {% if post.thumbnail %}<img src="{{ post.thumbnail }}">{% endif %}</div>
+          </div>
+        </a>
       </li>
     {% endfor %}
   </ul>

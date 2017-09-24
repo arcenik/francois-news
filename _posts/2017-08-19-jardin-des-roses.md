@@ -5,6 +5,8 @@ date:   2017-08-18
 categories: nature
 lang: fr
 ref: rosengarten
+image:     _images/2017-08-19-rosengarten.jpg
+thumbnail: _images/2017-08-19-th-rosengarten.jpg
 ---
 
 Ce samedi 19 août 2017, j’ai visité le fameux [jardin des roses (ou Rosengarten)][rosengarten].
